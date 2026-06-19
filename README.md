@@ -14,10 +14,6 @@ A YouTube IPA builder packed with customizable tweaks. Also known as Youtubemaxx
 ⭐ [YTPlusM](https://github.com/Mark02-2012/YTPlusM)  
 A fork of YouTube Plus (formerly YTLite). A flexible enhancer for YouTube featuring over a hundred customizable options. Actively maintained and includes pre-built IPAs.
 
-⭐ [YTKillerPlus](https://github.com/iKarwan/YTKillerPlus)  
-[Repo](https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus)  
-Actively maintained and includes pre-built IPAs.
-
 ⭐ [YTLiteDiarrhea](https://github.com/diarrhea3/YTLiteDiarrhea)  
 A fork of YouTube Plus (formerly YTLite). A flexible enhancer for YouTube featuring over a hundred customizable options. Includes pre-built IPAs.
 
@@ -32,6 +28,10 @@ Seeks to recreate features from YTLite as much as possible. Requires building th
 
 [YouTube Plus (formerly YTLite)](https://github.com/dayanch96/YTLite)  
 Paid. The free version was discontinued, and it requires building the IPA yourself.
+
+[YTKillerPlus](https://github.com/iKarwan/YTKillerPlus)  
+[Repo](https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus)
+Actively maintained and includes pre-built IPAs.
 
 ---
 

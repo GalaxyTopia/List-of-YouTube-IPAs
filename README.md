@@ -31,6 +31,7 @@ Paid. The free version was discontinued, and it requires building the IPA yourse
 
 [YTKillerPlus](https://github.com/iKarwan/YTKillerPlus)  
 [Repo](https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus)
+Requires a subscription of $3.99 (lasts 99 days and the key is for 1 device and is transferable).
 Actively maintained and includes pre-built IPAs.
 
 ---
